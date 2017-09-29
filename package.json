@@ -1,0 +1,10 @@
+{
+  "name": "node-config-env-value",
+  "version": "1.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.26.2"
+  },
+  "author": "Alex Natashkin",
+  "license": "ISC"
+}
