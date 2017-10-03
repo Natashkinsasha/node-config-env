@@ -14,3 +14,13 @@ Yarn
 ```javascript
 yarn add node-config-env
 ```
+
+# Quick start
+
+```javascript
+
+var config = require('node-config-env');
+
+var NODE_ENV = config.get('NODE_ENV');
+
+```
