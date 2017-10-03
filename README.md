@@ -19,7 +19,7 @@ yarn add node-config-env-value
 
 ```javascript
 
-var config = require('node-config-env');
+var config = require('node-config-env-value');
 
 var NODE_ENV = config.get('NODE_ENV');
 
