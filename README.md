@@ -6,12 +6,12 @@ A plug-in for [config](https://www.npmjs.com/package/config) module to add envir
 # Installation
 
 Npm
-```javascript
+```bush
 npm install node-config-env-value
 ```
 
 Yarn
-```javascript
+```bush
 yarn add node-config-env-value
 ```
 

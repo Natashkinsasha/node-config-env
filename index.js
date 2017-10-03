@@ -15,6 +15,7 @@ function parse(config) {
     newConfig = parseBoolean(newConfig);
     return newConfig;
 }
+
 function parseBoolean(obj) {
     return Object.keys(obj).reduce(function (result, key) {
         var value = obj[key];
