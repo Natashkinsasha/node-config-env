@@ -34,7 +34,7 @@ yarn add node-config-env-value
 ```json
     ...
     "scripts": {
-        "start": "server={port:4000} string=test2 number=1 boolean=false webpack-dev-server --hot --inline",
+        "start": "server={port:4000} string=test2 number=1 boolean=false node index.js",
     },
     ...
 ```
