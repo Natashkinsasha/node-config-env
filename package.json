@@ -1,6 +1,6 @@
 {
   "name": "node-config-env-value",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "main": "index.js",
   "dependencies": {
     "config": "^1.26.2",
@@ -11,8 +11,5 @@
     "url": "https://github.com/Natashkinsasha/node-config-env.git"
   },
   "author": "Alex Natashkin",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/config": "0.0.34"
-  }
+  "license": "ISC"
 }
